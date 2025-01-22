@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 hi this is first file3
-=======
-hi this is first file2
->>>>>>> feature
+
